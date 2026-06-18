@@ -29,7 +29,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For questions or suggestions, please open an issue or contact deepaanjaan2020@gmail.com\].
+For questions or suggestions, please open an issue.
 
 ---
 
